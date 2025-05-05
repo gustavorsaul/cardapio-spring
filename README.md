@@ -20,6 +20,12 @@ Este é um projeto simples de um **cardápio digital** feito com **Spring Boot**
   - Preço do produto
   - Imagem do produto (url)
 
+## 📚 Banco de Dados
+
+- O projeto utiliza **PostgreSQL** como banco de dados relacional.
+- Certifique-se de ter o PostgreSQL instalado e configurado.
+- É necessário criar um banco de dados (ex: `foods`) e ajustar as credenciais no `application.properties` do backend.
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend**:  
